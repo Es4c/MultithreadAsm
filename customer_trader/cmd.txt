@@ -1,0 +1,2 @@
+barbermake: barber_shop.c
+     gcc -o baber_shop barber_shop.c -Ipthread.
